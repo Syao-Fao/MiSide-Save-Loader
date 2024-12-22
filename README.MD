@@ -2,6 +2,8 @@
 
 MiSide Save Loader is a tool designed to unlock 100% of the content in the game MiSide. With this tool, you can unlock all achievements, characters, and chapters in the game.
 
+[![Watch the video](https://i3.ytimg.com/vi/UlIEkFAPELo/maxresdefault.jpg)](https://www.youtube.com/watch?v=UlIEkFAPELo)
+
 ---
 
 ## How to Use
